@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**Rayaanh19/Rayaanh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on: Building scalable cross-platform mobile apps using React Native and Expo.<br>👯 I’m looking to collaborate on: Open-source MERN stack projects or innovative Fintech/E-commerce web apps.<br>🤝 I’m looking for help with: Advanced cybersecurity implementations within web applications.<br>🌱 I’m currently learning: Refining my skills in Node.js backend architecture and preparing for IELTS exam.<br>💬 Ask me about: JavaScript, UI/UX design patterns, or how to optimize React component performance.<br>⚡ Fun fact: I can debug code and search for the perfect Hyderabadi Biryani at the same time.
 
 
@@ -25,9 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Rayaanh19&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
